@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<settings>
+		<variable>public_key</variable>
+		<name>{$lang->okaycms__unit_pay__public_key}</name>
+	</settings>
+	<settings>
+		<variable>secret_key</variable>
+		<name>{$lang->okaycms__unit_pay__secret_key}</name>
+	</settings>
+</module>
